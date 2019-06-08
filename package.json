@@ -24,6 +24,7 @@
     "@angular/router": "^8.0.0",
     "core-js": "^2.6.9",
     "hammerjs": "^2.0.8",
+    "ng2-date-countdown": "^1.0.3",
     "rxjs": "^6.0.0",
     "zone.js": "^0.9.1"
   },
